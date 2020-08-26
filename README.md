@@ -13,3 +13,8 @@ To provide simple examples
 
 Sample website with plenty of files for demos
 This is a simple web project
+
+##How to Contribute
+
+###CopyRight Notice
+Git Training
