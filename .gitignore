@@ -1,3 +1,4 @@
 create ignore file
 .DS_Store
 log/
+*.orig
