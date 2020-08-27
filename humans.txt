@@ -6,7 +6,7 @@
    swetha
 
 # THANKS
-
+thanks to all
     <name>
 
 # TECHNOLOGY COLOPHON
