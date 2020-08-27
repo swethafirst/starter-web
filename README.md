@@ -1,5 +1,6 @@
 # Starter Web Repo
-adding a line
+adding a line, more changes
+
 
 This repository is for showing how Git and GitHub work
 Adding new text
